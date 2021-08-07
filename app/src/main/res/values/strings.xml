@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Backstack</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="feed_fragment">Feed fragment</string>
+    <string name="videos_fragment">Videos fragment</string>
+    <string name="explore_fragment">Explore fragment</string>
+</resources>

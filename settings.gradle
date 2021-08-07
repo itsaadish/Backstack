@@ -1,0 +1,2 @@
+rootProject.name = "Backstack"
+include ':app'

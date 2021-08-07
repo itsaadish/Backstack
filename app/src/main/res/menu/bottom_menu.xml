@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/feedFragment"
+        android:title="Feed"
+        android:icon="@drawable/ic_baseline_home_24"/>
+    <item android:title="Videos"
+        android:id="@+id/videosFragment"
+        android:icon="@drawable/ic_baseline_ondemand_video_24"/>
+    <item android:title="Explore"
+        android:id="@+id/exploreFragment"
+        android:icon="@drawable/ic_baseline_explore_24"/>
+</menu>
